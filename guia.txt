@@ -1,0 +1,9 @@
+Guia de estilos:
+
+Definir cores
+Primária, primária-1 (clara: +15 de brilho e -15 de saturação) e primária+1 (-15 de brilho e +5 de saturação) - especificações para se basear, as vezes não é possível deixar 5 e 15
+Secundária
+Light
+Dark
+Danger
+Sucess
